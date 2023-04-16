@@ -53,3 +53,4 @@ This code is licensed under the MIT license.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanphulkar)
 
+[![instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://www.instagram.com/complex_rohan)
